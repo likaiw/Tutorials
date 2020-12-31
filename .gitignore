@@ -1,0 +1,4 @@
+/pandas/*
+/pandas/!*.ipynb
+/pandas/!*.md
+/pandas/!*.py
